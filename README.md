@@ -5,5 +5,8 @@ The program will only mount matching outfits.<br>
 This was meant as a tool to help me when I did not know what to wear.<br>
 All fotos were taken and edited by me, as well as all the code was written by myself.</p>
 
+Starting the program is going to take the user to the main interface, where he can choose between 5 buttons while listening to some moody background music.
+
+
 
 
