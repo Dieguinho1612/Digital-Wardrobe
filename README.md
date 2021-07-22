@@ -7,6 +7,7 @@ All fotos were taken and edited by me, as well as all the code was written by my
 
 Starting the program is going to take the user to the main interface, where he can choose between 5 buttons while listening to some moody background music.
 
+![Screenshot0](https://user-images.githubusercontent.com/53007033/126713530-84b8373d-bb3f-40ce-b57c-6634ac3a1efc.jpg)
 
 
 
