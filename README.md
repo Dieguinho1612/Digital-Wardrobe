@@ -36,3 +36,16 @@ https://user-images.githubusercontent.com/53007033/126720237-205af54d-f4ac-41ca-
 Demonstration of the buttons for Shirts and Shoes:
 
 https://user-images.githubusercontent.com/53007033/126720282-47d2155a-78d6-402c-8651-a573ff2e6f23.mp4
+
+
+<p> When the options for the T-Shirts are displayed, one can select one by clicking on it. 
+  A window showing all the options of pants and shorts that match with this selected T-Shirt is going to open then.
+  By clicking on one of these options the user can then also select the pants/shorts.
+  One can also do it the other way around and first select Pants/Shorts and then one T-Shirt of the matching options. </p>
+  
+https://user-images.githubusercontent.com/53007033/126721337-5a9b00c8-8dc6-4e69-9d74-b5d279c8ca8c.mp4
+
+<p> The user can then, if wanted, select a overlaying Shirt and Shoes matching with the outfit.
+  Since this is not necessary (not every outfit does have a second layer and sometimes one wants to use an outfit inside ones house and there need no shoes), the user can deselect them again, clicking on the corresponding button that just turned red. </p>
+  
+https://user-images.githubusercontent.com/53007033/126721519-31b947fe-a82e-4906-a7dd-d6d0e959a2fc.mp4
