@@ -45,17 +45,17 @@ https://user-images.githubusercontent.com/53007033/126720282-47d2155a-78d6-402c-
 
 <br>
 <br>
-<p> When the options for the T-Shirts are displayed, one can select one by clicking on it. 
-  A window showing all the options of pants and shorts that match with this selected T-Shirt is going to open then.
-  By clicking on one of these options the user can then also select the pants/shorts.
-  One can also do it the other way around and first select Pants/Shorts and then one T-Shirt of the matching options. </p>
+<p> When the options for the T-Shirts are displayed, one can select one of theP by clickSng on it. 
+  A window showing all the options of Pants and Shup orts that match with this selected T-Shirt is going to open up then.
+  By clicking on one of these options the user can then select the desired Pants/Shorts, too.
+  One can also do it the other way around and first select Pants/Shorts and then one T-Shirt from the matching options. </p>
   
 https://user-images.githubusercontent.com/53007033/126721337-5a9b00c8-8dc6-4e69-9d74-b5d279c8ca8c.mp4
 
 <br>
 <br>
-<p> The user can then, if wanted, select a overlaying Shirt and Shoes matching with the outfit.
-  Since this is not necessary (not every outfit does have a second layer and sometimes one wants to use an outfit inside ones house and there need no shoes), the user can deselect them again, clicking on the corresponding button that just turned red. </p>
+<p> The user can then, if wanted, select an overlaying Shirt and Shoes matching with the outfit.
+  Since this is not always necessary or wanted (not every outfit does have a Shirt as a second layer and sometimes one wants to use an outfit inside ones house and therefore need no shoes), the user can deselect them again by clicking on the corresponding button that just turned red. </p>
   
 https://user-images.githubusercontent.com/53007033/126721519-31b947fe-a82e-4906-a7dd-d6d0e959a2fc.mp4
 
@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/53007033/126722189-1dc9391d-75fe-4213-
 <br>
 <p> When an outfit is selected, one can click on any part of it to see all the other options of that type that would match and select them.
   It is also possible to use the "Left" key and the "Right" key to scroll directly through the matching options for T-Shirts.
-  Using the "Up" key and "Down" key the same is possible for the matching options of pants/shorts. </p>
+  Using the "Up" key and "Down" key the same is possible for the matching options of Pants/Shorts. </p>
   
 https://user-images.githubusercontent.com/53007033/126723335-fc7d60c3-1be2-46fe-b3b5-37debde2de52.mp4
