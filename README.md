@@ -72,3 +72,29 @@ https://user-images.githubusercontent.com/53007033/126722189-1dc9391d-75fe-4213-
   Using the "Up" key and "Down" key the same is possible for the matching options of Pants/Shorts. </p>
   
 https://user-images.githubusercontent.com/53007033/126723335-fc7d60c3-1be2-46fe-b3b5-37debde2de52.mp4
+
+<br>
+<br>
+<p>Some more examples of selectable outfits:</p>
+
+![Outfit1](https://user-images.githubusercontent.com/53007033/126726732-af717979-074b-430a-ac10-f4198d3a1584.jpg)
+
+![Outfit2](https://user-images.githubusercontent.com/53007033/126726736-ba498ebb-6c65-4fb3-b177-0568b3873fcc.jpg)
+
+![Outfit3](https://user-images.githubusercontent.com/53007033/126726737-9bc74c2c-9c59-4b6f-a331-60613ba104e9.jpg)
+
+![Outfit4](https://user-images.githubusercontent.com/53007033/126726743-a45640f9-0551-4a0a-8c4d-fe33310588f0.jpg)
+
+![Outfit5](https://user-images.githubusercontent.com/53007033/126726750-78971e70-2f42-469d-a191-02f28184e462.jpg)
+
+![Outfit6](https://user-images.githubusercontent.com/53007033/126726756-1b6a7970-91f0-442c-a383-72b819f26b80.jpg)
+
+![Outfit7](https://user-images.githubusercontent.com/53007033/126726773-8582bd5e-00c5-4dbb-a4a9-99e36b11959e.jpg)
+
+![Outfit8](https://user-images.githubusercontent.com/53007033/126726780-a5adf8b2-da7e-4271-b66e-6fe5592faf1a.jpg)
+
+![Outfit9](https://user-images.githubusercontent.com/53007033/126726785-fc03f27a-446f-46b7-a51a-4af321f11c62.jpg)
+
+![Outfit11](https://user-images.githubusercontent.com/53007033/126726796-75a88217-768d-4d63-877b-cbdba4413d2f.jpg)
+
+![Outfit10](https://user-images.githubusercontent.com/53007033/126726791-283bed9c-aa7a-487e-a3ac-1559bfedf1d5.jpg)
