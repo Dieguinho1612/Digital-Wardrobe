@@ -1,6 +1,6 @@
 # Digital-Wardrobe
 <p>This is a graphical digital wardrobe created with Tkinter.<br>
-Everything is programmed from scratch and no prebuilt methods have been used.<br>
+Everything is programmed from scratch and no pre-built methods have been used.<br>
 It is possible to select outfits based on the clothes I actually do own in real life.<br>
 The program will only mount matching outfits.<br>
 This was meant as a tool to help me when I did not know what to wear.<br>
