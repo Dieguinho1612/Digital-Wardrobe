@@ -1,5 +1,5 @@
 # Digital-Wardrobe
-<p>This is a graphical digital wardrobe created with Tkinter.<br>
+<p>This is a digital wardrobe with a GUI created with Tkinter.<br>
 Everything is programmed from scratch and no pre-built methods have been used.</p>
 
 <p>It is possible to select outfits based on the clothes I actually do own in real life.<br>
